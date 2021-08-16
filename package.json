@@ -1,0 +1,14 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "Understand Ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ecmastcript"
+  ],
+  "author": "Alberto Coronado <ac.insite15@live.com>",
+  "license": "MIT"
+}
